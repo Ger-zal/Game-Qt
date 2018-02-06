@@ -1,5 +1,5 @@
 # Game-Qt
-to play use 
+to play open folder "Run" and use 
 Q : go left
 D : go right
 Mouse Left Click : save drownings
